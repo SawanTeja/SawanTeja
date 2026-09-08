@@ -1,39 +1,61 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Tejashvi+Sinha;Full+Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Tejashvi+Sinha;Full+Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+<br/>
 
-### About Me
+<p>
+  Full Stack Developer focused on building robust, scalable and practical web & mobile applications.
+</p>
 
-I'm a passionate developer focused on building robust and scalable web and mobile applications.
+</div>
 
 ---
 
-### Technical Skills
+## About Me
 
-#### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) <!-- Generic SQL placeholder using Postgres blue -->
+I'm a developer who enjoys turning ideas into reliable products.
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+I work across the stack, from building responsive interfaces and mobile applications to designing APIs, databases and backend systems. I care about writing clean code, understanding how systems work, and building software that can scale.
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-#### Developer Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Technical Skills
 
+### Languages
 
+![C](https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=FFFFFF)
+![React Native](https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
+![Expo](https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=FFFFFF)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=FFFFFF)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-161B22?style=flat-square&logo=googlecloud&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FFFFFF)
+
+---
+
+<div align="center">
+
+### Building things that are useful, scalable, and well-engineered.
+
+</div>
